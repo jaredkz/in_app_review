@@ -27,7 +27,7 @@ apply plugin: 'kotlin-android'
 android {
     // removed Conditional for compatibility with AGP <4.2.
     namespace 'dev.britannio.in_app_review'
-    }
+    
 
     compileSdkVersion 33
 
